@@ -9,6 +9,10 @@ public class Company {
 	private void m2() {
 		System.out.println("method created by B");
 	}
+	private void m3() {
+		System.out.println("m3 created by C branch");
+	}
+
 
 	public static void main(String[] args) {
 		int a=100;
